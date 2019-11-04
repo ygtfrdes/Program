@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+`xdg-open http://192.168.200.1/admin`

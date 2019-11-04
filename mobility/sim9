@@ -1,0 +1,802 @@
+Starting cycle over all 201 PHYs
+Sender mobility: 4482.87:3879.35:1.2
+Receiver mobility: 2411.02:3310.21:1.2
+Propagation: txPower=14dbm, rxPower=-118.989dbm, distance=2148.61m, delay=+7166.0ns
+dstNode = 0
+
+Receiver mobility: -1246.65:-3098.39:1.2
+Propagation: txPower=14dbm, rxPower=-142.431dbm, distance=9028.63m, delay=+30116.0ns
+dstNode = 1
+
+Receiver mobility: 166.298:6042.84:1.2
+Propagation: txPower=14dbm, rxPower=-132.211dbm, distance=4828.41m, delay=+16105.0ns
+dstNode = 2
+
+Receiver mobility: 2205.72:-2550.33:1.2
+Propagation: txPower=14dbm, rxPower=-137.853dbm, distance=6821.01m, delay=+22752.0ns
+dstNode = 3
+
+Receiver mobility: 1546.31:-648.603:1.2
+Propagation: txPower=14dbm, rxPower=-134.028dbm, distance=5396.83m, delay=+18001.0ns
+dstNode = 4
+
+Receiver mobility: 2238.15:-2918.48:1.2
+Propagation: txPower=14dbm, rxPower=-138.642dbm, distance=7158.86m, delay=+23879.0ns
+dstNode = 5
+
+Receiver mobility: 1858.85:-2572.63:1.2
+Propagation: txPower=14dbm, rxPower=-138.194dbm, distance=6965.16m, delay=+23233.0ns
+dstNode = 6
+
+Receiver mobility: -2825.33:-4917.73:1.2
+Propagation: txPower=14dbm, rxPower=-146.292dbm, distance=11436.7m, delay=+38148.0ns
+dstNode = 7
+
+Receiver mobility: 2452.48:4270.56:1.2
+Propagation: txPower=14dbm, rxPower=-118.363dbm, distance=2067.74m, delay=+6897.0ns
+dstNode = 8
+
+Receiver mobility: 1647.7:-6503.87:1.2
+Propagation: txPower=14dbm, rxPower=-145.301dbm, distance=10763.3m, delay=+35902.0ns
+dstNode = 9
+
+Receiver mobility: -4838.67:-4422.75:1.2
+Propagation: txPower=14dbm, rxPower=-147.721dbm, distance=12482.6m, delay=+41637.0ns
+dstNode = 10
+
+Receiver mobility: -1609.86:-4815.66:1.2
+Propagation: txPower=14dbm, rxPower=-145.078dbm, distance=10617.2m, delay=+35415.0ns
+dstNode = 11
+
+Receiver mobility: 3103.9:2832.61:1.2
+Propagation: txPower=14dbm, rxPower=-115.462dbm, distance=1731.25m, delay=+5774.0ns
+dstNode = 12
+
+Receiver mobility: 2471.41:-2516.5:1.2
+Propagation: txPower=14dbm, rxPower=-137.572dbm, distance=6704.69m, delay=+22364.0ns
+dstNode = 13
+
+Receiver mobility: 4216.93:-3928.61:1.2
+Propagation: txPower=14dbm, rxPower=-140.069dbm, distance=7812.48m, delay=+26059.0ns
+dstNode = 14
+
+Receiver mobility: 409.489:343.887:1.2
+Propagation: txPower=14dbm, rxPower=-134.019dbm, distance=5393.7m, delay=+17991.0ns
+dstNode = 15
+
+Receiver mobility: 5489.5:-195.175:1.2
+Propagation: txPower=14dbm, rxPower=-129.923dbm, distance=4197.03m, delay=+13999.0ns
+dstNode = 16
+
+Receiver mobility: 4543.74:3001.91:1.2
+Propagation: txPower=14dbm, rxPower=-104.404dbm, distance=879.552m, delay=+2933.0ns
+dstNode = 17
+
+Receiver mobility: 4555.9:4841.96:1.2
+Propagation: txPower=14dbm, rxPower=-105.925dbm, distance=965.381m, delay=+3220.0ns
+dstNode = 18
+
+Receiver mobility: -725.813:-7273.17:1.2
+Propagation: txPower=14dbm, rxPower=-147.492dbm, distance=12308.9m, delay=+41058.0ns
+dstNode = 19
+
+Receiver mobility: -5090.14:1156:1.2
+Propagation: txPower=14dbm, rxPower=-144.023dbm, distance=9952.85m, delay=+33199.0ns
+dstNode = 20
+
+Receiver mobility: -2702.72:1668.4:1.2
+Propagation: txPower=14dbm, rxPower=-139.442dbm, distance=7518.05m, delay=+25077.0ns
+dstNode = 21
+
+Receiver mobility: -2796.19:-4838.58:1.2
+Propagation: txPower=14dbm, rxPower=-146.178dbm, distance=11357.2m, delay=+37883.0ns
+dstNode = 22
+
+Receiver mobility: -507.18:4178.89:1.2
+Propagation: txPower=14dbm, rxPower=-132.778dbm, distance=4999.04m, delay=+16674.0ns
+dstNode = 23
+
+Receiver mobility: -3512.29:-3148.55:1.2
+Propagation: txPower=14dbm, rxPower=-145.121dbm, distance=10644.9m, delay=+35507.0ns
+dstNode = 24
+
+Receiver mobility: -542.167:-4437.18:1.2
+Propagation: txPower=14dbm, rxPower=-143.631dbm, distance=9716.77m, delay=+32411.0ns
+dstNode = 25
+
+Receiver mobility: 4.50324:-6065.39:1.2
+Propagation: txPower=14dbm, rxPower=-145.517dbm, distance=10906.6m, delay=+36380.0ns
+dstNode = 26
+
+Receiver mobility: -664.153:-5718.01:1.2
+Propagation: txPower=14dbm, rxPower=-145.493dbm, distance=10890.4m, delay=+36326.0ns
+dstNode = 27
+
+Receiver mobility: -138.745:6340.36:1.2
+Propagation: txPower=14dbm, rxPower=-133.534dbm, distance=5236.03m, delay=+17465.0ns
+dstNode = 28
+
+Receiver mobility: -6339.61:3157.78:1.2
+Propagation: txPower=14dbm, rxPower=-145.427dbm, distance=10846.5m, delay=+36180.0ns
+dstNode = 29
+
+Receiver mobility: 197.569:1318.01:1.2
+Propagation: txPower=14dbm, rxPower=-132.757dbm, distance=4992.43m, delay=+16652.0ns
+dstNode = 30
+
+Receiver mobility: -4309.28:-344.45:1.2
+Propagation: txPower=14dbm, rxPower=-143.693dbm, distance=9754.09m, delay=+32536.0ns
+dstNode = 31
+
+Receiver mobility: -2802.11:-1308.31:1.2
+Propagation: txPower=14dbm, rxPower=-142.276dbm, distance=8943.31m, delay=+29831.0ns
+dstNode = 32
+
+Receiver mobility: 6894.96:-311.749:1.2
+Propagation: txPower=14dbm, rxPower=-132.235dbm, distance=4835.65m, delay=+16129.0ns
+dstNode = 33
+
+Receiver mobility: -5515.73:-34.2197:1.2
+Propagation: txPower=14dbm, rxPower=-145.262dbm, distance=10737.2m, delay=+35815.0ns
+dstNode = 34
+
+Receiver mobility: -2922.54:314.411:1.2
+Propagation: txPower=14dbm, rxPower=-140.897dbm, distance=8218.82m, delay=+27415.0ns
+dstNode = 35
+
+Receiver mobility: 1904.84:1394.23:1.2
+Propagation: txPower=14dbm, rxPower=-127.33dbm, distance=3580.79m, delay=+11944.0ns
+dstNode = 36
+
+Receiver mobility: -1255.29:4047.24:1.2
+Propagation: txPower=14dbm, rxPower=-135.037dbm, distance=5740.62m, delay=+19148.0ns
+dstNode = 37
+
+Receiver mobility: 5910.91:115.063:1.2
+Propagation: txPower=14dbm, rxPower=-129.243dbm, distance=4026.06m, delay=+13429.0ns
+dstNode = 38
+
+Receiver mobility: -3067.41:2228.02:1.2
+Propagation: txPower=14dbm, rxPower=-139.893dbm, distance=7728.76m, delay=+25780.0ns
+dstNode = 39
+
+Receiver mobility: -1085.76:1564.79:1.2
+Propagation: txPower=14dbm, rxPower=-135.841dbm, distance=6030.5m, delay=+20115.0ns
+dstNode = 40
+
+Receiver mobility: -3847.24:1682.77:1.2
+Propagation: txPower=14dbm, rxPower=-141.665dbm, distance=8614.86m, delay=+28736.0ns
+dstNode = 41
+
+Receiver mobility: 3436.4:-4832.91:1.2
+Propagation: txPower=14dbm, rxPower=-141.966dbm, distance=8774.88m, delay=+29269.0ns
+dstNode = 42
+
+Receiver mobility: 3734.65:4967.32:1.2
+Propagation: txPower=14dbm, rxPower=-111.039dbm, distance=1320.42m, delay=+4404.0ns
+dstNode = 43
+
+Receiver mobility: 3310.83:-3306.25:1.2
+Propagation: txPower=14dbm, rxPower=-138.917dbm, distance=7280.55m, delay=+24285.0ns
+dstNode = 44
+
+Receiver mobility: -728.586:-6816.37:1.2
+Propagation: txPower=14dbm, rxPower=-146.938dbm, distance=11897.8m, delay=+39686.0ns
+dstNode = 45
+
+Receiver mobility: 2334.38:633.595:1.2
+Propagation: txPower=14dbm, rxPower=-128.692dbm, distance=3892.42m, delay=+12983.0ns
+dstNode = 46
+
+Receiver mobility: -2846.02:-921.335:1.2
+Propagation: txPower=14dbm, rxPower=-141.94dbm, distance=8761.24m, delay=+29224.0ns
+dstNode = 47
+
+Receiver mobility: 1979.01:-3435.92:1.2
+Propagation: txPower=14dbm, rxPower=-139.9dbm, distance=7731.91m, delay=+25790.0ns
+dstNode = 48
+
+Receiver mobility: 7125.05:262.468:1.2
+Propagation: txPower=14dbm, rxPower=-130.985dbm, distance=4479.16m, delay=+14940.0ns
+dstNode = 49
+
+Receiver mobility: 3542.78:-4583.97:1.2
+Propagation: txPower=14dbm, rxPower=-141.476dbm, distance=8515.37m, delay=+28404.0ns
+dstNode = 50
+
+Receiver mobility: 3411.75:-3314.26:1.2
+Propagation: txPower=14dbm, rxPower=-138.9dbm, distance=7272.92m, delay=+24259.0ns
+dstNode = 51
+
+Receiver mobility: 2117.93:-5133.49:1.2
+Propagation: txPower=14dbm, rxPower=-142.946dbm, distance=9317.95m, delay=+31081.0ns
+dstNode = 52
+
+Receiver mobility: -6078.78:2380.63:1.2
+Propagation: txPower=14dbm, rxPower=-145.155dbm, distance=10667.5m, delay=+35582.0ns
+dstNode = 53
+
+Receiver mobility: 1541.46:1694.85:1.2
+Propagation: txPower=14dbm, rxPower=-127.704dbm, distance=3663.87m, delay=+12221.0ns
+dstNode = 54
+
+Receiver mobility: -4589.21:4030.95:1.2
+Propagation: txPower=14dbm, rxPower=-142.512dbm, distance=9073.35m, delay=+30265.0ns
+dstNode = 55
+
+Receiver mobility: -1851.08:2363.86:1.2
+Propagation: txPower=14dbm, rxPower=-137.097dbm, distance=6512.73m, delay=+21724.0ns
+dstNode = 56
+
+Receiver mobility: 640.646:-6777.58:1.2
+Propagation: txPower=14dbm, rxPower=-146.137dbm, distance=11328.4m, delay=+37787.0ns
+dstNode = 57
+
+Receiver mobility: 4803.52:-4430.39:1.2
+Propagation: txPower=14dbm, rxPower=-141.089dbm, distance=8315.93m, delay=+27738.0ns
+dstNode = 58
+
+Receiver mobility: -2599.42:4213.27:1.2
+Propagation: txPower=14dbm, rxPower=-138.485dbm, distance=7090.16m, delay=+23650.0ns
+dstNode = 59
+
+Receiver mobility: -1006.29:-6148.19:1.2
+Propagation: txPower=14dbm, rxPower=-146.285dbm, distance=11431.6m, delay=+38131.0ns
+dstNode = 60
+
+Receiver mobility: -917.81:396.267:1.2
+Propagation: txPower=14dbm, rxPower=-136.88dbm, distance=6426.45m, delay=+21436.0ns
+dstNode = 61
+
+Receiver mobility: -709.728:-1723.67:1.2
+Propagation: txPower=14dbm, rxPower=-139.703dbm, distance=7639.17m, delay=+25481.0ns
+dstNode = 62
+
+Receiver mobility: 5903.88:4601.37:1.2
+Propagation: txPower=14dbm, rxPower=-114.113dbm, distance=1593.91m, delay=+5316.0ns
+dstNode = 63
+
+Receiver mobility: -4617.12:-807.583:1.2
+Propagation: txPower=14dbm, rxPower=-144.481dbm, distance=10236.1m, delay=+34143.0ns
+dstNode = 64
+
+Receiver mobility: -4211.75:-585.466:1.2
+Propagation: txPower=14dbm, rxPower=-143.727dbm, distance=9774m, delay=+32602.0ns
+dstNode = 65
+
+Receiver mobility: 5344.75:-2968.23:1.2
+Propagation: txPower=14dbm, rxPower=-138.045dbm, distance=6901.61m, delay=+23021.0ns
+dstNode = 66
+
+Receiver mobility: 3496.83:5716.67:1.2
+Propagation: txPower=14dbm, rxPower=-118.5dbm, distance=2085.19m, delay=+6955.0ns
+dstNode = 67
+
+Receiver mobility: 3320.66:-5378.72:1.2
+Propagation: txPower=14dbm, rxPower=-142.969dbm, distance=9330.74m, delay=+31123.0ns
+dstNode = 68
+
+Receiver mobility: 1872.93:-1585.47:1.2
+Propagation: txPower=14dbm, rxPower=-135.91dbm, distance=6056.07m, delay=+20200.0ns
+dstNode = 69
+
+Receiver mobility: 5364.25:310.605:1.2
+Propagation: txPower=14dbm, rxPower=-127.758dbm, distance=3675.97m, delay=+12261.0ns
+dstNode = 70
+
+Receiver mobility: -3125.02:-340.202:1.2
+Propagation: txPower=14dbm, rxPower=-141.825dbm, distance=8699.69m, delay=+29019.0ns
+dstNode = 71
+
+Receiver mobility: -6059.6:497.687:1.2
+Propagation: txPower=14dbm, rxPower=-145.762dbm, distance=11071.6m, delay=+36930.0ns
+dstNode = 72
+
+Receiver mobility: 5616.78:1356.89:1.2
+Propagation: txPower=14dbm, rxPower=-123.111dbm, distance=2765.6m, delay=+9225.0ns
+dstNode = 73
+
+Receiver mobility: 1099.22:-597.923:1.2
+Propagation: txPower=14dbm, rxPower=-134.667dbm, distance=5612.05m, delay=+18719.0ns
+dstNode = 74
+
+Receiver mobility: -25.098:-716.166:1.2
+Propagation: txPower=14dbm, rxPower=-136.908dbm, distance=6437.44m, delay=+21472.0ns
+dstNode = 75
+
+Receiver mobility: 5073.97:-5490.4:1.2
+Propagation: txPower=14dbm, rxPower=-143.069dbm, distance=9388.37m, delay=+31316.0ns
+dstNode = 76
+
+Receiver mobility: 3664.56:-5704.91:1.2
+Propagation: txPower=14dbm, rxPower=-143.466dbm, distance=9619.13m, delay=+32085.0ns
+dstNode = 77
+
+Receiver mobility: 6297.95:-3346.62:1.2
+Propagation: txPower=14dbm, rxPower=-139.294dbm, distance=7450.44m, delay=+24852.0ns
+dstNode = 78
+
+Receiver mobility: -4067.31:-1662.86:1.2
+Propagation: txPower=14dbm, rxPower=-144.406dbm, distance=10189.3m, delay=+33987.0ns
+dstNode = 79
+
+Receiver mobility: 7490.3:-123.834:1.2
+Propagation: txPower=14dbm, rxPower=-132.804dbm, distance=5007m, delay=+16701.0ns
+dstNode = 80
+
+Receiver mobility: 2785.73:-2099.46:1.2
+Propagation: txPower=14dbm, rxPower=-136.333dbm, distance=6215.01m, delay=+20731.0ns
+dstNode = 81
+
+Receiver mobility: 4084.13:6163.28:1.2
+Propagation: txPower=14dbm, rxPower=-120.232dbm, distance=2318.48m, delay=+7733.0ns
+dstNode = 82
+
+Receiver mobility: -7023.22:-998.559:1.2
+Propagation: txPower=14dbm, rxPower=-147.74dbm, distance=12497.4m, delay=+41686.0ns
+dstNode = 83
+
+Receiver mobility: 3268.33:6077.1:1.2
+Propagation: txPower=14dbm, rxPower=-121.534dbm, distance=2511.02m, delay=+8375.0ns
+dstNode = 84
+
+Receiver mobility: -4611.24:4247.57:1.2
+Propagation: txPower=14dbm, rxPower=-142.563dbm, distance=9101.56m, delay=+30359.0ns
+dstNode = 85
+
+Receiver mobility: -5078.98:4898.99:1.2
+Propagation: txPower=14dbm, rxPower=-143.461dbm, distance=9616.07m, delay=+32075.0ns
+dstNode = 86
+
+Receiver mobility: 3827.44:6252.83:1.2
+Propagation: txPower=14dbm, rxPower=-121.215dbm, distance=2462.32m, delay=+8213.0ns
+dstNode = 87
+
+Receiver mobility: -2357.4:3402.03:1.2
+Propagation: txPower=14dbm, rxPower=-137.938dbm, distance=6856.91m, delay=+22872.0ns
+dstNode = 88
+
+Receiver mobility: -5904.82:772.312:1.2
+Propagation: txPower=14dbm, rxPower=-145.421dbm, distance=10842.4m, delay=+36166.0ns
+dstNode = 89
+
+Receiver mobility: 2635.7:1627.77:1.2
+Propagation: txPower=14dbm, rxPower=-123.955dbm, distance=2912.33m, delay=+9714.0ns
+dstNode = 90
+
+Receiver mobility: -1669.52:-1161.62:1.2
+Propagation: txPower=14dbm, rxPower=-140.362dbm, distance=7953.82m, delay=+26531.0ns
+dstNode = 91
+
+Receiver mobility: 5311.12:-4899.98:1.2
+Propagation: txPower=14dbm, rxPower=-142.046dbm, distance=8818.31m, delay=+29414.0ns
+dstNode = 92
+
+Receiver mobility: -1134.89:-3550:1.2
+Propagation: txPower=14dbm, rxPower=-142.94dbm, distance=9314.21m, delay=+31068.0ns
+dstNode = 93
+
+Receiver mobility: -3473.58:5841.71:1.2
+Propagation: txPower=14dbm, rxPower=-140.849dbm, distance=8194.88m, delay=+27335.0ns
+dstNode = 94
+
+Receiver mobility: -1936.51:-3331.71:1.2
+Propagation: txPower=14dbm, rxPower=-143.526dbm, distance=9654.42m, delay=+32203.0ns
+dstNode = 95
+
+Receiver mobility: -5374.79:-3081.81:1.2
+Propagation: txPower=14dbm, rxPower=-147.169dbm, distance=12067.8m, delay=+40253.0ns
+dstNode = 96
+
+Receiver mobility: 6528.43:2326.22:1.2
+Propagation: txPower=14dbm, rxPower=-121.903dbm, distance=2568.37m, delay=+8567.0ns
+dstNode = 97
+
+Receiver mobility: 5462.41:-2758.23:1.2
+Propagation: txPower=14dbm, rxPower=-137.583dbm, distance=6709.47m, delay=+22380.0ns
+dstNode = 98
+
+Receiver mobility: -2506.17:-5823.37:1.2
+Propagation: txPower=14dbm, rxPower=-147.02dbm, distance=11957.8m, delay=+39887.0ns
+dstNode = 99
+
+Receiver mobility: -6433.55:591.432:1.2
+Propagation: txPower=14dbm, rxPower=-146.241dbm, distance=11400.8m, delay=+38029.0ns
+dstNode = 100
+
+Receiver mobility: -498.025:-2315.4:1.2
+Propagation: txPower=14dbm, rxPower=-140.351dbm, distance=7948.86m, delay=+26514.0ns
+dstNode = 101
+
+Receiver mobility: -1510.69:7327.33:1.2
+Propagation: txPower=14dbm, rxPower=-138.075dbm, distance=6914.58m, delay=+23064.0ns
+dstNode = 102
+
+Receiver mobility: -5220.86:-1708.71:1.2
+Propagation: txPower=14dbm, rxPower=-145.947dbm, distance=11197.7m, delay=+37351.0ns
+dstNode = 103
+
+Receiver mobility: -7299.88:398.635:1.2
+Propagation: txPower=14dbm, rxPower=-147.462dbm, distance=12286.1m, delay=+40982.0ns
+dstNode = 104
+
+Receiver mobility: -2774.03:-540.007:1.2
+Propagation: txPower=14dbm, rxPower=-141.44dbm, distance=8496.67m, delay=+28341.0ns
+dstNode = 105
+
+Receiver mobility: -4155.74:-1118.14:1.2
+Propagation: txPower=14dbm, rxPower=-144.067dbm, distance=9980.01m, delay=+33289.0ns
+dstNode = 106
+
+Receiver mobility: 1272.8:5459.51:1.2
+Propagation: txPower=14dbm, rxPower=-127.317dbm, distance=3577.92m, delay=+11934.0ns
+dstNode = 107
+
+Receiver mobility: -633.694:2672.17:1.2
+Propagation: txPower=14dbm, rxPower=-133.6dbm, distance=5257.05m, delay=+17535.0ns
+dstNode = 108
+
+Receiver mobility: -3437.06:-3216.55:1.2
+Propagation: txPower=14dbm, rxPower=-145.103dbm, distance=10633.8m, delay=+35470.0ns
+dstNode = 109
+
+Receiver mobility: 3477.64:4027.52:1.2
+Propagation: txPower=14dbm, rxPower=-106.761dbm, distance=1016.1m, delay=+3389.0ns
+dstNode = 110
+
+Receiver mobility: 40.2443:1575.28:1.2
+Propagation: txPower=14dbm, rxPower=-132.796dbm, distance=5004.57m, delay=+16693.0ns
+dstNode = 111
+
+Receiver mobility: -5639.65:-2989.96:1.2
+Propagation: txPower=14dbm, rxPower=-147.392dbm, distance=12233.3m, delay=+40805.0ns
+dstNode = 112
+
+Receiver mobility: 4364.11:1785.01:1.2
+Propagation: txPower=14dbm, rxPower=-118.598dbm, distance=2097.7m, delay=+6997.0ns
+dstNode = 113
+
+Receiver mobility: -7018.55:-912.834:1.2
+Propagation: txPower=14dbm, rxPower=-147.691dbm, distance=12459.8m, delay=+41561.0ns
+dstNode = 114
+
+Receiver mobility: -3362.52:5954.75:1.2
+Propagation: txPower=14dbm, rxPower=-140.69dbm, distance=8115.27m, delay=+27069.0ns
+dstNode = 115
+
+Receiver mobility: 3421.85:3113.75:1.2
+Propagation: txPower=14dbm, rxPower=-110.889dbm, distance=1308.4m, delay=+4364.0ns
+dstNode = 116
+
+Receiver mobility: -3862.17:1688.17:1.2
+Propagation: txPower=14dbm, rxPower=-141.69dbm, distance=8627.92m, delay=+28779.0ns
+dstNode = 117
+
+Receiver mobility: -3254.68:-5620.86:1.2
+Propagation: txPower=14dbm, rxPower=-147.417dbm, distance=12252.5m, delay=+40869.0ns
+dstNode = 118
+
+Receiver mobility: -2380.56:-444.668:1.2
+Propagation: txPower=14dbm, rxPower=-140.683dbm, distance=8111.96m, delay=+27058.0ns
+dstNode = 119
+
+Receiver mobility: -6351.57:1411.11:1.2
+Propagation: txPower=14dbm, rxPower=-145.822dbm, distance=11112m, delay=+37065.0ns
+dstNode = 120
+
+Receiver mobility: 5062.08:996.291:1.2
+Propagation: txPower=14dbm, rxPower=-124.114dbm, distance=2940.66m, delay=+9808.0ns
+dstNode = 121
+
+Receiver mobility: -339.406:-3568.03:1.2
+Propagation: txPower=14dbm, rxPower=-142.146dbm, distance=8872.31m, delay=+29594.0ns
+dstNode = 122
+
+Receiver mobility: -2619.85:5400.15:1.2
+Propagation: txPower=14dbm, rxPower=-138.88dbm, distance=7263.71m, delay=+24229.0ns
+dstNode = 123
+
+Receiver mobility: 6555.24:-1764.75:1.2
+Propagation: txPower=14dbm, rxPower=-135.793dbm, distance=6012.54m, delay=+20055.0ns
+dstNode = 124
+
+Receiver mobility: 5582.67:-4102.01:1.2
+Propagation: txPower=14dbm, rxPower=-140.572dbm, distance=8056.77m, delay=+26874.0ns
+dstNode = 125
+
+Receiver mobility: -4867.38:-2101.37:1.2
+Propagation: txPower=14dbm, rxPower=-145.803dbm, distance=11099.4m, delay=+37023.0ns
+dstNode = 126
+
+Receiver mobility: -4998.99:3068.03:1.2
+Propagation: txPower=14dbm, rxPower=-143.291dbm, distance=9516.51m, delay=+31743.0ns
+dstNode = 127
+
+Receiver mobility: -6409.6:2329.9:1.2
+Propagation: txPower=14dbm, rxPower=-145.66dbm, distance=11002.1m, delay=+36699.0ns
+dstNode = 128
+
+Receiver mobility: -1883.23:-4327.07:1.2
+Propagation: txPower=14dbm, rxPower=-144.719dbm, distance=10386.2m, delay=+34644.0ns
+dstNode = 129
+
+Receiver mobility: 1772.59:-4614.15:1.2
+Propagation: txPower=14dbm, rxPower=-142.225dbm, distance=8915.45m, delay=+29738.0ns
+dstNode = 130
+
+Receiver mobility: -5636.56:543.061:1.2
+Propagation: txPower=14dbm, rxPower=-145.136dbm, distance=10655.2m, delay=+35541.0ns
+dstNode = 131
+
+Receiver mobility: -2024.19:2906.23:1.2
+Propagation: txPower=14dbm, rxPower=-137.264dbm, distance=6579.43m, delay=+21946.0ns
+dstNode = 132
+
+Receiver mobility: -4065.4:840.416:1.2
+Propagation: txPower=14dbm, rxPower=-142.51dbm, distance=9072.38m, delay=+30262.0ns
+dstNode = 133
+
+Receiver mobility: 3413.22:3352.67:1.2
+Propagation: txPower=14dbm, rxPower=-109.372dbm, distance=1192.29m, delay=+3977.0ns
+dstNode = 134
+
+Receiver mobility: -2439.19:-7057.13:1.2
+Propagation: txPower=14dbm, rxPower=-148.313dbm, distance=12943m, delay=+43173.0ns
+dstNode = 135
+
+Receiver mobility: 3056.25:-1671.02:1.2
+Propagation: txPower=14dbm, rxPower=-135.009dbm, distance=5730.78m, delay=+19115.0ns
+dstNode = 136
+
+Receiver mobility: 3632.34:-4787.82:1.2
+Propagation: txPower=14dbm, rxPower=-141.842dbm, distance=8708.8m, delay=+29049.0ns
+dstNode = 137
+
+Receiver mobility: -2774.41:-5348.93:1.2
+Propagation: txPower=14dbm, rxPower=-146.72dbm, distance=11740.1m, delay=+39160.0ns
+dstNode = 138
+
+Receiver mobility: -2206.04:4652.71:1.2
+Propagation: txPower=14dbm, rxPower=-137.642dbm, distance=6733.48m, delay=+22460.0ns
+dstNode = 139
+
+Receiver mobility: 5249.81:2857.24:1.2
+Propagation: txPower=14dbm, rxPower=-110.504dbm, distance=1277.85m, delay=+4262.0ns
+dstNode = 140
+
+Receiver mobility: -5286.85:-4.79844:1.2
+Propagation: txPower=14dbm, rxPower=-144.918dbm, distance=10513.5m, delay=+35069.0ns
+dstNode = 141
+
+Receiver mobility: 6560.63:-2181.23:1.2
+Propagation: txPower=14dbm, rxPower=-136.83dbm, distance=6406.85m, delay=+21370.0ns
+dstNode = 142
+
+Receiver mobility: -2203.71:-6178.81:1.2
+Propagation: txPower=14dbm, rxPower=-147.183dbm, distance=12078m, delay=+40287.0ns
+dstNode = 143
+
+Receiver mobility: -3024.69:4373.34:1.2
+Propagation: txPower=14dbm, rxPower=-139.454dbm, distance=7523.8m, delay=+25096.0ns
+dstNode = 144
+
+Receiver mobility: -4669.59:-534.509:1.2
+Propagation: txPower=14dbm, rxPower=-144.361dbm, distance=10161.2m, delay=+33894.0ns
+dstNode = 145
+
+Receiver mobility: 3492.18:-5417.6:1.2
+Propagation: txPower=14dbm, rxPower=-143.002dbm, distance=9349.58m, delay=+31186.0ns
+dstNode = 146
+
+Receiver mobility: 2154:513.778:1.2
+Propagation: txPower=14dbm, rxPower=-129.512dbm, distance=4092.77m, delay=+13652.0ns
+dstNode = 147
+
+Receiver mobility: 4961.5:-2456.03:1.2
+Propagation: txPower=14dbm, rxPower=-136.693dbm, distance=6353.44m, delay=+21192.0ns
+dstNode = 148
+
+Receiver mobility: 332.154:-2012.93:1.2
+Propagation: txPower=14dbm, rxPower=-138.753dbm, distance=7207.46m, delay=+24041.0ns
+dstNode = 150
+
+Receiver mobility: 6411.36:-3171.74:1.2
+Propagation: txPower=14dbm, rxPower=-138.983dbm, distance=7310.05m, delay=+24383.0ns
+dstNode = 151
+
+Receiver mobility: 442.548:-419.148:1.2
+Propagation: txPower=14dbm, rxPower=-135.482dbm, distance=5899.26m, delay=+19677.0ns
+dstNode = 152
+
+Receiver mobility: 608.879:-5752.07:1.2
+Propagation: txPower=14dbm, rxPower=-144.711dbm, distance=10381.3m, delay=+34628.0ns
+dstNode = 153
+
+Receiver mobility: -3222.03:637.268:1.2
+Propagation: txPower=14dbm, rxPower=-141.173dbm, distance=8359.22m, delay=+27883.0ns
+dstNode = 154
+
+Receiver mobility: -4635.39:5364.08:1.2
+Propagation: txPower=14dbm, rxPower=-142.806dbm, distance=9238.35m, delay=+30815.0ns
+dstNode = 155
+
+Receiver mobility: 842.649:588.718:1.2
+Propagation: txPower=14dbm, rxPower=-132.475dbm, distance=4907.09m, delay=+16368.0ns
+dstNode = 156
+
+Receiver mobility: 1428.62:881.39:1.2
+Propagation: txPower=14dbm, rxPower=-130.241dbm, distance=4279.75m, delay=+14275.0ns
+dstNode = 157
+
+Receiver mobility: -5780.47:-2767.76:1.2
+Propagation: txPower=14dbm, rxPower=-147.384dbm, distance=12227.9m, delay=+40787.0ns
+dstNode = 158
+
+Receiver mobility: 5004.57:1567.8:1.2
+Propagation: txPower=14dbm, rxPower=-120.588dbm, distance=2369.69m, delay=+7904.0ns
+dstNode = 159
+
+Receiver mobility: 2966.83:-4632.46:1.2
+Propagation: txPower=14dbm, rxPower=-141.724dbm, distance=8645.77m, delay=+28839.0ns
+dstNode = 160
+
+Receiver mobility: 4144.17:1144.64:1.2
+Propagation: txPower=14dbm, rxPower=-123.052dbm, distance=2755.61m, delay=+9191.0ns
+dstNode = 161
+
+Receiver mobility: 603.693:6252.42:1.2
+Propagation: txPower=14dbm, rxPower=-131.232dbm, distance=4547.47m, delay=+15168.0ns
+dstNode = 162
+
+Receiver mobility: -5585.85:-2511.03:1.2
+Propagation: txPower=14dbm, rxPower=-146.975dbm, distance=11925.4m, delay=+39778.0ns
+dstNode = 163
+
+Receiver mobility: 3687.23:-5950.57:1.2
+Propagation: txPower=14dbm, rxPower=-143.873dbm, distance=9862.07m, delay=+32896.0ns
+dstNode = 164
+
+Receiver mobility: -6065.63:293.759:1.2
+Propagation: txPower=14dbm, rxPower=-145.865dbm, distance=11141.2m, delay=+37163.0ns
+dstNode = 165
+
+Receiver mobility: -3056.43:6056.09:1.2
+Propagation: txPower=14dbm, rxPower=-140.141dbm, distance=7847.24m, delay=+26175.0ns
+dstNode = 166
+
+Receiver mobility: 1125.81:2251.86:1.2
+Propagation: txPower=14dbm, rxPower=-128dbm, distance=3730.76m, delay=+12444.0ns
+dstNode = 167
+
+Receiver mobility: -2646.18:6458.41:1.2
+Propagation: txPower=14dbm, rxPower=-139.578dbm, distance=7581.22m, delay=+25288.0ns
+dstNode = 168
+
+Receiver mobility: 2434.66:4538.52:1.2
+Propagation: txPower=14dbm, rxPower=-119.012dbm, distance=2151.67m, delay=+7177.0ns
+dstNode = 169
+
+Receiver mobility: -289.25:-6164.52:1.2
+Propagation: txPower=14dbm, rxPower=-145.833dbm, distance=11119.9m, delay=+37092.0ns
+dstNode = 170
+
+Receiver mobility: -6448.79:-720.15:1.2
+Propagation: txPower=14dbm, rxPower=-146.885dbm, distance=11859.9m, delay=+39560.0ns
+dstNode = 171
+
+Receiver mobility: -912.316:1248.48:1.2
+Propagation: txPower=14dbm, rxPower=-135.765dbm, distance=6002.46m, delay=+20022.0ns
+dstNode = 172
+
+Receiver mobility: 1390.93:-1432.86:1.2
+Propagation: txPower=14dbm, rxPower=-136.152dbm, distance=6146.52m, delay=+20502.0ns
+dstNode = 173
+
+Receiver mobility: -2497.64:-41.8307:1.2
+Propagation: txPower=14dbm, rxPower=-140.469dbm, distance=8006.45m, delay=+26706.0ns
+dstNode = 174
+
+Receiver mobility: 1106.77:-5246.17:1.2
+Propagation: txPower=14dbm, rxPower=-143.653dbm, distance=9730.01m, delay=+32455.0ns
+dstNode = 175
+
+Receiver mobility: -2196.98:2862.64:1.2
+Propagation: txPower=14dbm, rxPower=-137.698dbm, distance=6756.78m, delay=+22538.0ns
+dstNode = 176
+
+Receiver mobility: 4562.54:280.011:1.2
+Propagation: txPower=14dbm, rxPower=-127.418dbm, distance=3600.22m, delay=+12009.0ns
+dstNode = 177
+
+Receiver mobility: 4076.91:6238.34:1.2
+Propagation: txPower=14dbm, rxPower=-120.753dbm, distance=2393.67m, delay=+7984.0ns
+dstNode = 178
+
+Receiver mobility: 1735.56:7197.71:1.2
+Propagation: txPower=14dbm, rxPower=-130.349dbm, distance=4308.04m, delay=+14370.0ns
+dstNode = 179
+
+Receiver mobility: 2255.83:-4356.25:1.2
+Propagation: txPower=14dbm, rxPower=-141.506dbm, distance=8531.41m, delay=+28457.0ns
+dstNode = 180
+
+Receiver mobility: 618.079:3627.09:1.2
+Propagation: txPower=14dbm, rxPower=-128.611dbm, distance=3873.02m, delay=+12918.0ns
+dstNode = 181
+
+Receiver mobility: -3391.64:1858.78:1.2
+Propagation: txPower=14dbm, rxPower=-140.719dbm, distance=8129.62m, delay=+27117.0ns
+dstNode = 182
+
+Receiver mobility: -1595.28:-772.641:1.2
+Propagation: txPower=14dbm, rxPower=-139.734dbm, distance=7654.08m, delay=+25531.0ns
+dstNode = 183
+
+Receiver mobility: 2241.89:1300.72:1.2
+Propagation: txPower=14dbm, rxPower=-126.562dbm, distance=3416.33m, delay=+11395.0ns
+dstNode = 184
+
+Receiver mobility: 1241.9:1639.87:1.2
+Propagation: txPower=14dbm, rxPower=-128.888dbm, distance=3939.44m, delay=+13140.0ns
+dstNode = 185
+
+Receiver mobility: 312.108:2250.4:1.2
+Propagation: txPower=14dbm, rxPower=-130.979dbm, distance=4477.59m, delay=+14935.0ns
+dstNode = 186
+
+Receiver mobility: 2839.04:114.537:1.2
+Propagation: txPower=14dbm, rxPower=-129.573dbm, distance=4108.04m, delay=+13702.0ns
+dstNode = 187
+
+Receiver mobility: -5310.47:2896.7:1.2
+Propagation: txPower=14dbm, rxPower=-143.841dbm, distance=9842.52m, delay=+32831.0ns
+dstNode = 188
+
+Receiver mobility: 146.105:511.738:1.2
+Propagation: txPower=14dbm, rxPower=-134.31dbm, distance=5490.75m, delay=+18315.0ns
+dstNode = 189
+
+Receiver mobility: -3430.07:-1511.46:1.2
+Propagation: txPower=14dbm, rxPower=-143.39dbm, distance=9574.74m, delay=+31937.0ns
+dstNode = 190
+
+Receiver mobility: 5084.21:-5445.1:1.2
+Propagation: txPower=14dbm, rxPower=-142.992dbm, distance=9343.82m, delay=+31167.0ns
+dstNode = 191
+
+Receiver mobility: -987.937:2524.84:1.2
+Propagation: txPower=14dbm, rxPower=-134.737dbm, distance=5636m, delay=+18799.0ns
+dstNode = 192
+
+Receiver mobility: 5651.97:4131.5:1.2
+Propagation: txPower=14dbm, rxPower=-109.422dbm, distance=1195.98m, delay=+3989.0ns
+dstNode = 193
+
+Receiver mobility: 5859.61:4067.07:1.2
+Propagation: txPower=14dbm, rxPower=-111.871dbm, distance=1389.47m, delay=+4634.0ns
+dstNode = 194
+
+Receiver mobility: 3101.51:-1232.78:1.2
+Propagation: txPower=14dbm, rxPower=-133.719dbm, distance=5295.47m, delay=+17663.0ns
+dstNode = 195
+
+Receiver mobility: 1693.74:4441.21:1.2
+Propagation: txPower=14dbm, rxPower=-123.574dbm, distance=2845.17m, delay=+9490.0ns
+dstNode = 196
+
+Receiver mobility: -188.671:-3248.97:1.2
+Propagation: txPower=14dbm, rxPower=-141.49dbm, distance=8522.69m, delay=+28428.0ns
+dstNode = 197
+
+Receiver mobility: -5064.39:-3695.06:1.2
+Propagation: txPower=14dbm, rxPower=-147.33dbm, distance=12187m, delay=+40651.0ns
+dstNode = 198
+
+Receiver mobility: -4680.68:3478.42:1.2
+Propagation: txPower=14dbm, rxPower=-142.689dbm, distance=9172.32m, delay=+30595.0ns
+dstNode = 199
+
+Receiver mobility: 0:0:15
+Propagation: txPower=14dbm, rxPower=-135.562dbm, distance=5928.38m, delay=+19774.0ns
+dstNode = 200
+
